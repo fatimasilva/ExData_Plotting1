@@ -1,3 +1,18 @@
+# ReadMe
+
+## Exploratory Data Analysis: Course project 1 
+
+Using the "Individual household
+electric power consumption Data Set" from [UC Irvine Machine
+Learning Repository](http://archive.ics.uci.edu/ml/") makes plots to examine how household energy usage varies over a 2-day period in February, 2007.
+
+## Files
+
+* R Code files: each code file generates the corresponding plot (code in plot1.R constructs the plot1.png plot): plot1.R, plot2.R, plot3.R, plot4.R
+
+* Plot files: plot1.png, plot2.png, plot3.png, plot4.png
+
+----
 ## Introduction
 
 This assignment uses data from
